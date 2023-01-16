@@ -1,7 +1,7 @@
 # Rapid Deployer
 
 Hi fam, 
-Here i've developed a repository manager for windows users
+Here we've developed a repository manager for windows users
 
 You can also help me with completeing the api repository at [discord](https://discord.gg/mYrhYW6Dre)
 
